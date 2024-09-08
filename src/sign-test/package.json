@@ -1,0 +1,17 @@
+{
+  "name": "sign-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethsign/sp-sdk": "^0.7.2",
+    "axios": "^1.7.7",
+    "ethersjs": "^0.0.1-security",
+    "fs-extra": "^11.2.0"
+  }
+}
